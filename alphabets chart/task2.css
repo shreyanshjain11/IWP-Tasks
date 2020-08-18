@@ -1,0 +1,100 @@
+body{
+	background-image: linear-gradient(to left, lightgrey ,lightblue, lightgrey);
+}
+table{
+	margin: auto;
+  width: 58%;
+  table-layout: fixed;
+  padding: 10px;
+  background-image: linear-gradient(to right, grey ,black, grey);
+  empty-cells: hide;
+
+
+}
+
+td{
+	height: 300px;
+	text-align: center;
+	text-transform: bold;
+	color:white;
+	vertical-align: middle;
+}
+td.A:hover{
+	background: url("A.jpg")no-repeat;
+
+}
+td.B:hover{
+	background: url("B.jpg")no-repeat;
+}
+td.C:hover{
+	background: url("C.jpg")no-repeat;
+}
+td.D:hover{
+	background: url("D.jpg")no-repeat;
+}
+td.E:hover{
+	background: url("E.jpg")no-repeat;
+}
+td.F:hover{
+	background: url("F.jpg")no-repeat;
+}
+td.G:hover{
+	background: url("G.jpg")no-repeat;
+}
+td.H:hover{
+	background: url("H.jpg")no-repeat;
+}
+td.I:hover{
+	background: url("I.jpg")no-repeat;
+}
+td.J:hover{
+	background: url("J.jpg")no-repeat;
+}
+td.K:hover{
+	background: url("K.jpg")no-repeat;
+}
+td.L:hover{
+	background: url("L.jpg")no-repeat;
+}
+td.M:hover{
+	background: url("M.jpg")no-repeat;
+}
+td.N:hover{
+	background: url("N.jpg")no-repeat;
+}
+td.O:hover{
+	background: url("O.jpg")no-repeat;
+}
+td.P:hover{
+	background: url("P.jpg")no-repeat;
+}
+td.Q:hover{
+	background: url("Q.jpg")no-repeat;
+}
+td.R:hover{
+	background: url("R.jpg")no-repeat;
+}
+td.S:hover{
+	background: url("T.jpg")no-repeat;
+}
+td.T:hover{
+	background: url("T.jpg")no-repeat;
+}
+td.U:hover{
+	background: url("U.jpg")no-repeat;
+}
+td.V:hover{
+	background: url("V.jpg")no-repeat;
+}
+td.W:hover{
+	background: url("W.jpg")no-repeat;
+}
+td.X:hover{
+	background: url("X.jpg")no-repeat;
+}
+td.Y:hover{
+	background: url("Y.jpg")no-repeat;
+}
+td.Z:hover{
+	background: url("Z.jpg")no-repeat;
+}
