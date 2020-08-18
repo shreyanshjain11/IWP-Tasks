@@ -1,0 +1,149 @@
+body{
+  background: linear-gradient( 90deg, #fbe2e5,#ffc1f3, #fe91ca);
+}
+
+#title1{
+  font-family: 'Major Mono Display', monospace;
+
+font-size: 70px;
+color: #6f4a8e;
+text-align: center;
+font-weight: bolder;
+}
+
+.content1{
+font-family: 'Bad Script', cursive;
+  font-size: 30px;
+
+}
+
+.lastcontent{
+  font-family: 'Courgette', cursive;
+}
+
+.button{
+  background-color: #fbfd8a;
+margin: 5px;
+}
+
+.button:hover{
+  border: dotted 3px black;
+  background: linear-gradient( 90deg, #ffffff, #fcf876, #f5b971);
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  z-index:1;
+}
+.button7{
+  background-color: #f6ab6c;
+  margin: 5px;
+}
+
+.button7:hover{
+  border: dotted 3px black;
+  background: linear-gradient( 90deg, #fdd998, #fbc490, #f5b971);
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  z-index:1;
+}
+
+.button1{
+  background-color: #fc9d9d;
+  margin: 5px;
+}
+
+.button1:hover{
+  border: dotted 3px black;
+  background: linear-gradient( 90deg, #fff2e5, #ffd5ab, #eb9788);
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  z-index:1;
+}
+
+.button2{
+  background-color: #c3aed6;
+  margin: 5px;
+}
+
+.button2:hover{
+  border: dotted 3px black;
+  background: linear-gradient( 90deg, #dbe3e5, #c3aed6, #8675a9);
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  z-index:1;
+}
+
+.button3{
+  background-color: #8fcfd1;
+  margin: 5px;
+}
+
+.button3:hover{
+  border: dotted 3px black;
+  background: linear-gradient( 90deg, #bbe1fa, #7fdbda, #3282b8);
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  z-index:1;
+}
+
+.button4{
+  background-color: #206a5d;
+  margin: 5px;
+}
+
+.button4:hover{
+  border: dotted 3px black;
+  background: linear-gradient( 90deg, #9bdeac, #438a5e, #184d47);
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  z-index:1;
+}
+
+.button5{
+  background-color: #b6eb7a;
+  margin: 5px;
+}
+
+.button5:hover{
+  border: dotted 3px black;
+  background: linear-gradient( 90deg, #cff6cf, #b6eb7a, #9bdeac);
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  z-index:1;
+}
+
+.button9{
+
+  background-color: #838383;
+  margin: 30px 5px 5px;
+}
+
+.button9:hover{
+  border: dotted 3px black;
+  background: linear-gradient( 90deg, #cccccc, #758184, #393e46);
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  z-index:1;
+}
+
+
+.button10{
+  background-color: #838383;
+  margin: 5px;
+}
+
+.button10:hover{
+  border: dotted 3px black;
+  background: linear-gradient( 90deg, #cccccc, #758184, #393e46);
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  z-index:1;
+}
